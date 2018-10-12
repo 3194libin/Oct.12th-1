@@ -8,5 +8,12 @@
 
 import Foundation
 
-print("Hello, World!")
-
+/*var c=10;var b=12*/
+typealias feet = Int
+var mystring=""
+if mystring.isEmpty{
+    print("empty")}
+else{
+    print("notempty")}
+var distance:feet=120
+print("\(mystring)\(distance)")
